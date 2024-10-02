@@ -55,6 +55,22 @@ I created a repository on GitHub and cloned it to my local machine. After making
 - 5. Jamie's Work: Updating Events Page
      - The above flow was repeated for Jamie's work on Events Page. 
 
+     - A Branch was created for Jamie and switched to the new branch to add update_events using the command "git checkout -b update-events"
+
+    ![](./Images/10.%20Jamie%20Branch.png)
+
+    -The changes was staged, Committed, and Pushed the Changes with a message "This is an update for the event"
+    - I pushed the update-events branch to GitHub and then raised a pull request for Morgan's work
+
+    ![](./Images/11.%20Jamie%20Branch%20pushed.png)
+
+    - Jamie's work was then merged to the main branch
+
+    ![](./Images/8.%20Changes%20was%20merged.png)
+
+    - The changes was pulled to the local using "git pull"
+
+    ![](./Images/6.%20Pull%20Request.png)
 
      This is the updated README
 
