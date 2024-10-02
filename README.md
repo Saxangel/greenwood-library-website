@@ -60,7 +60,10 @@ I created a repository on GitHub and cloned it to my local machine. After making
     ![](./Images/10.%20Jamie%20Branch.png)
 
     -The changes was staged, Committed, and Pushed the Changes with a message "This is an update for the event"
-    - I pushed the update-events branch to GitHub and then raised a pull request for Morgan's work
+
+    Command used "git push origin"
+    
+    - I pushed the update-events branch to GitHub and then raised a pull request for Jamie's work with the command "git push origin update-events"
 
     ![](./Images/11.%20Jamie%20Branch%20pushed.png)
 
